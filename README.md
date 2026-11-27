@@ -1,6 +1,3 @@
-Aha—the code block never closed properly, so Markdown swallowed your entire table and Technical Stack inside that dark terminal box! Notice `bash```` sitting right under `Contact : shazilumar919@gmail.com`.
-
-Click the little **pencil icon** at the top-right of that README card (`Shazil-Umar / README.md`), press `Ctrl + A` to select everything, and replace the whole file with this exact clean version:
 
 ```markdown
 # Shazil Umar
