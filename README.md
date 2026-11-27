@@ -22,8 +22,8 @@ Contact  : shazilumar919@gmail.com
 
 | Project | Domain | Architecture & Key Controls |
 | --- | --- | --- |
-| **[ESP32 WiFi Sentinel](https://www.google.com/search?q=https://github.com/Shazil-Umar/ESP32-WIFI-SENTINEL)** | Wireless & IoT Security | ESP32 serial passive Wi-Fi sniffer, Python OUI/CVE & Evil-Twin baseline analyzer, Node/Express REST API, live dark-mode React dashboard |
-| **Multi-Agent B2B Outreach Pipeline** | AI & Workflow Automation | 4-agent automated lead qualification, enrichment, and outreach orchestration built with n8n, Gemini, Apollo, and SQL |
+| **[ESP32 WiFi Sentinel](https://github.com/Shazil-Umar/ESP32-WIFI-SENTINEL)** | Wireless & IoT Security | ESP32 serial passive Wi-Fi sniffer, Python OUI/CVE & Evil-Twin baseline analyzer, Node/Express REST API, live dark-mode React dashboard |
+| **[ForgeX B2B Outreach Pipeline](https://github.com/Shazil-Umar/ForgeX-MultiAgent-Pipeline)** | AI & Workflow Automation | 4-agent automated lead qualification, enrichment, and outreach orchestration built with n8n, Gemini, Apollo, and SQL |
 
 ---
 
