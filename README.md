@@ -1,5 +1,3 @@
-
-```markdown
 # Shazil Umar
 
 **BS Cybersecurity & Computer Science @ NUTECH | Full-Stack Engineering · Hardware Security · AI Automation**  
@@ -37,4 +35,4 @@ Contact  : shazilumar919@gmail.com
 * **Automation & AI:** n8n Workflow Orchestration, Multi-Agent Pipelines, Ollama / Local LLM Tooling
 * **Hardware & Systems:** ESP32 (Arduino C++), Serial Telemetry, Linux Administration, Docker, WSL, Git
 
-```
+
